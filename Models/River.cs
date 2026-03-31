@@ -12,7 +12,7 @@ namespace Water.Models
 
         public override void GetInfo()
         {
-            Console.WriteLine($"Id: {Id} , Ocean: {Name} , Depth: {Depth}, Flow Speed: {FlowSpeed}");
+            Console.WriteLine($"Id: {Id} , River: {Name} , Depth: {Depth}, Flow Speed: {FlowSpeed}");
 
         }
     }

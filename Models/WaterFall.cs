@@ -12,7 +12,7 @@ namespace Water.Models
 
         public override void GetInfo()
         {
-            Console.WriteLine($"Id: {Id} , Ocean: {Name} , Depth: {Depth}, Height: {Height}");
+            Console.WriteLine($"Id: {Id} , Waterfall: {Name} , Depth: {Depth}, Height: {Height}");
         }
     }
 }
