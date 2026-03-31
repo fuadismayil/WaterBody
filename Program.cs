@@ -13,7 +13,7 @@ namespace Water
                 new Ocean(){ Id = 03, Name = "Indian", Depth = 3000, HasCoralReefs = true },
                 new Ocean(){ Id = 04, Name = "Arctic", Depth = 2000, HasCoralReefs = false },
                 new Ocean(){ Id = 05, Name = "Southern", Depth = 2500, HasCoralReefs = true },
-                new Sea(){ Id = 11, Name = "Mediterranean", Depth = 1500, SaltLevel = 35 },
+                new Sea(){ Id = 11, Name = "Baltic", Depth = 1500, SaltLevel = 35 },
                 new Sea(){ Id = 12, Name = "Black", Depth = 1200, SaltLevel = 30 },
                 new Sea(){ Id = 13, Name = "Red", Depth = 1000, SaltLevel = 40 },
                 new Sea(){ Id = 14, Name = "Baikal", Depth = 1700, SaltLevel = 25 },
